@@ -8,21 +8,21 @@
 
 /*三张背景图设置*/
 .background1 {
-  background: url(../img/1.jpg);
+  background: url(..1.jpg);
   background-attachment: fixed;
   background-size: cover;
   background-position: center center;
 }
 
 .background2 {
-  background: url(../img/2.jpg);
+  background: url(..2.jpg);
   background-attachment: fixed;
   background-size: cover;
   background-position: center center;
 }
 
 .background3 {
-  background: url(../img/3.jpg);
+  background: url(..3.jpg);
   background-attachment: fixed;
   background-size: cover;
   background-position: center center;
